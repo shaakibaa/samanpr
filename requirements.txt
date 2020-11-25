@@ -1,0 +1,10 @@
+#Requirements for Question 1 and 2
+
+pandas==1.0.0
+statistics==3.4.0
+datetime==4.3.0
+requests==2.22.0
+bs4==4.8.2
+scipy==1.3.2
+numpy==1.18.1
+lxml==4.1.1
